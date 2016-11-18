@@ -15,7 +15,7 @@ class Tile
     @revealed = true
   end
 
-  def neighbors
+  def neighbors 
   end
 
   def neighbor_bomb_count

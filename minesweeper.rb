@@ -1,2 +1,2 @@
 class Minesweeper
-end
+end 
